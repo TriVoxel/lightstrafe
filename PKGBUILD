@@ -19,6 +19,6 @@ package() {
     install -D -m 755 lightstrafe.desktop \
     	 "${pkgdir}/usr/share/applications/lightstrafe.desktop"
 
-    install -D -m 755 ligthstrafe.png \
+    install -D -m 755 lightstrafe.png \
     	 "${pkgdir}/usr/share/icons/lightstrafe.png"
 }
