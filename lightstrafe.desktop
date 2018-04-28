@@ -1,7 +1,7 @@
 [Desktop Entry]
 Categories=Game;
 Comment=A fun 3D shooting platformer
-Exec=lightstrafe
+Exec=/usr/share/lightstrafe/lightstrafe
 GenericName=LightStrafe [BETA]
 Icon=/usr/share/icons/lightstrafe.png
 Keywords=game;blender;bge;light;strafe;platformer;gaming
