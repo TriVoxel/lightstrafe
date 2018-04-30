@@ -2,8 +2,8 @@
 
 pkgname="lightstrafe"
 _pkgname="lightstrafe"
-pkgver=1.0
-pkgrel=1.0
+pkgver=4.30.18
+pkgrel=4.30.18
 pkgdesc='A fun 3D shooting platformer game created by Caden Mitchell (SidedVirus)'
 url='https://github.com/CadenMitchell/lightstrafe/'
 arch=('any')
