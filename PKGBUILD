@@ -14,7 +14,7 @@ package() {
     cd "${srcdir}/${_pkgname}-1.0"
 
     install -D -m 777 lightstrafe \
-    	 "${pkgdir}/usr/share/lightstrafe/lightstrafe"
+    	 "${pkgdir}/usr/bin/lightstfafe"
 
     install -D -m 755 lightstrafe.desktop \
     	 "${pkgdir}/usr/share/applications/lightstrafe.desktop"
