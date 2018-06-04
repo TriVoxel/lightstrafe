@@ -8,3 +8,4 @@ Keywords=game;blender;bge;light;strafe;platformer;gaming
 Name=LightStrafe [BETA]
 Terminal=false
 Type=Application
+NoDisplay=false
